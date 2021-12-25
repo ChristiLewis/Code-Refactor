@@ -94,6 +94,10 @@ p {
     max-width: 150px;
 }
 
+.benefits p {
+    text-align: left;
+}
+
 .content img {
     max-height: 200px;
 }
